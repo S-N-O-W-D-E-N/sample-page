@@ -7,7 +7,7 @@
 </head>
 <body>
     <center>
-    <h1>CRUD</h1>
+    <h1>CRUD FINAL</h1>
     <h2>Create, Read, Update, Delete</h2>
         <form method="post">
             <input type="text" name="fname" placeholder="Enter Firstname" required><br>
